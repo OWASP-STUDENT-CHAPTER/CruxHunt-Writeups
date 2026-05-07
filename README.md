@@ -1,9 +1,12 @@
-# CruxHunt 
+<h1 align="left">
+  ⚔️ CruxHunt
+  <img src="https://komarev.com/ghpvc/?username=OWASP-STUDENT-CHAPTER&repo=CruxHunt-Writeups&label=People%20Engaged&style=for-the-badge&color=blueviolet" align="right" />
+</h1>
 
+## Official CTF Writeups Repository of OWASP TIET
 
-## Official CTF Writeups
-
-Welcome to the **OWASP TIET** official writeup repository! This document serves as the central intelligence database for the solutions and methodologies used to solve challenges within the Cruxbreaker ecosystem. This repository is designed as a learning resource for those who fight not with spells, but with terminals and code.
+Welcome to the **OWASP TIET** official writeup repository.  
+This repository serves as the intelligence database for solutions and methodologies used throughout the **Cruxbreaker** ecosystem. This repository is designed as a learning resource for those who fight not with spells, but with terminals and code.
 
 Capture The Flag (CTF) competitions are a powerful way to bridge the gap between magical theory and digital reality. These challenges require problem-solving, creativity, and technical knowledge to uncover truths that are often buried deep within unsupervised infrastructure.
 
@@ -34,7 +37,6 @@ If you are new to the unit, we recommend starting with **Round 1 (Reconnaissance
 *   🟡 **Medium:** Intermediate forensics and log analysis.
 *   🔴 **Hard:** Complex binary exploitation and neutralizing active worm modules.
   
-
 
 ---
 
