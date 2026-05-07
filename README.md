@@ -83,7 +83,7 @@ Focuses on the "Unbreakable Vow" of the system—the deepest, most architectural
 | **Q1**| **Order of the Phoenix** | [PDF](./Writeups/Round%204/R4%20Q1.pdf) | [View](https://drive.google.com/file/d/1pVvPaE82xxeX3PWrEA9EJzEVIv3bCCEG/view?usp=drive_link) | 🔴 Hard | 350 | Forensics |
 | **Q2**| **Fragments of Truth** | [PDF](./Writeups/Round%204/R4%20Q2.pdf) | [View](https://drive.google.com/file/d/11uWRO6DX-3PbBvNz8nsGmfnuo9Af2KIE/view?usp=drive_link) | 🟡 Medium | 270 | Audio Forensics / Steganography  |
 | **Q3**| **Example Challenge** | [PDF](./Writeups/Round%204/R4%20Q3.pdf) | [View](./path) | Medium | 310 | #Category |
-| **Q4**| **The Marauder's Map** | [PDF](./Writeups/Round%204/R4%20Q4.pdf) | [View](./path) | 🟡 Medium | 400 | OSINT, Digital Forensics  |
+| **Q4**| **The Marauder's Map** | [PDF](./Writeups/Round%204/R4%20Q4.pdf) | [View](https://drive.google.com/file/d/1twJvqyyC80_kRc-IiULa_Zy1McdrhC4z/view?usp=drive_link) | 🟡 Medium | 400 | OSINT, Digital Forensics  |
 
 ## Round 5: "Fiendfyre - The Final Cipher"
 A single, two-stage investigation into Snape’s manifesto and evidence. Participants must navigate a distributed network hidden within magical portraits to recover a private key and sign a final "kill command" to release the archive lock.
